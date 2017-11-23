@@ -1,0 +1,78 @@
+#body{
+background-image:url("https://d4qwptktddc5f.cloudfront.net/steven-harris-beach-house.jpg");
+background-position: top;
+background-repeat: no-repeat;
+
+}
+
+#header{
+	padding-top: 0%;
+	padding-bottom: 1%;
+	padding-right: 0;
+	padding-left: 0;
+	height: 221px;
+	color: #FFFFFF;
+	opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+#shortHead{
+	height: 219px;
+	color: #FFFFFF;
+	opacity: 0.6;
+}
+
+#titlePosition{
+	position: relative;
+	left: -1%;
+	top: 10%;
+}
+
+#move{
+	top:-30px;
+}
+
+#navbar{
+	position: absolute;
+	top: 20px;
+	right: -1px;
+	width: 100%;
+	height: 20px;
+	background-image:url("http://www.nycbw.com/files/The-New-York-City-Skyline-Just-Before-Sunrise.jpg");
+	background-position: top;
+}
+
+
+#intro{
+	position: absolute;
+	top: 190px;
+	right: 31%;
+	color: orange;
+	font-size: 26px;
+	font-weight: bold;
+}
+
+#title{
+	position: absolute;
+	top: 247px;
+	right: 29%;
+	color: white;
+	font-size: 37px;
+	font-weight: bold;
+}
+
+#button{
+	position: absolute;
+	top: 291px;
+	right: -686px;
+	width: 107px;
+	height: 44px;
+	background-color: orange;
+	font-size: 20px;
+}
+
+
+.text{
+	color: white;
+	font-size: 12px;
+}
